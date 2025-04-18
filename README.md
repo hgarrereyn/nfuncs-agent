@@ -9,7 +9,7 @@ A simple python-equipped agent to solve the `nfuncs` challenge from DEF CON 2025
 
 You will need Binary Ninja (with API access) and an OpenAI API key.
 
-You will also need to download the `nfuncs.exe` binary (3 GB) (see [nfuncs_0.0.1.7z.torrent](./nfuncs_0.0.1.7z.torrent)).
+You will also need to download the `nfuncs.exe` binary (3 GB) (see [nfuncs_0.0.1.7z.torrent](./nfuncs_0.0.1.7z.torrent)) -- the password is `icantbelieveitsnotmalware_7z`.
 
 Create a `.env` file with an `OPENAI_API_KEY` variable. (Optionally set `LANGCHAIN_*` variables to enable tracing.)
 
